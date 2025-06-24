@@ -65,6 +65,7 @@
 7. Problem Challenge 1: Find the Corrupt Pair (easy) [TheCodingSimplified](https://thecodingsimplified.com/find-currupt-pair/)
 8. Problem Challenge 2: Find the Smallest Missing Positive Number (medium) [Leetcode](https://leetcode.com/problems/first-missing-positive/)
 9. Problem Challenge 3: Find the First K Missing Positive Numbers (hard) [TheCodingSimplified](https://thecodingsimplified.com/find-the-first-k-missing-positive-number/)
+10. Trapping rain water  [Leetcode](https://leetcode.com/problems/trapping-rain-water/description/)
 
 ### 6. Pattern: In-place Reversal of a LinkedList
 
@@ -83,7 +84,8 @@
 4. Decimal to Binary Conversion
 5. Next Greater Element [Leetcode - I](https://leetcode.com/problems/next-greater-element-i/) [Leetcode -II](https://leetcode.com/problems/next-greater-element-ii/) [Leetcode - III (Hard)](https://leetcode.com/problems/next-greater-element-iv/)
 6. Sorting a Stack 
-7. Simplify Path [Leetcode](https://leetcode.com/problems/simplify-path/)  
+7. Simplify Path [Leetcode](https://leetcode.com/problems/simplify-path/)
+8. Trapping rain water  [Leetcode](https://leetcode.com/problems/trapping-rain-water/description/)
 
 ### 8. Pattern: Monotonic Stack
 
